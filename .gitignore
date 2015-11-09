@@ -33,6 +33,5 @@ Thumbs.db
 .DS_Store
 
 # Android Studio
-*.iml
 /.idea/workspace.xml
 /.idea/libraries
